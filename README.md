@@ -30,3 +30,4 @@ Thanks for stopping by, and I look forward to connecting with you! 🙌
 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AbhayMishra1371&theme=tokyo-night&hide_border=true&area=true">
+ <img src="https://komarev.com/ghpvc/?username=AbhayMishra1371&style=flat-square">

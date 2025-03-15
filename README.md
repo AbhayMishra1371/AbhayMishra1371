@@ -26,6 +26,7 @@ I'm always looking to collaborate with like-minded individuals and organizations
 
 Thanks for stopping by, and I look forward to connecting with you! 🙌  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhayMishra1371&theme=tokyonight&hide_border=true" height="193px"/>
+ <img src="https://streak-stats.demolab.com/?user=AbhayMishra1371&theme=tokyonight&hide_border=true" height="193px"/>
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AbhayMishra1371&theme=tokyo-night&hide_border=true&area=true">

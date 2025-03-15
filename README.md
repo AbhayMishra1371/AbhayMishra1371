@@ -15,7 +15,15 @@ Welcome to my GitHub profile! I'm a passionate content creator, vlogger, and asp
 ## 🛠️ Skills  
 - Content Creation (Video Editing, Storytelling)  
 - Learning and applying programming languages and tools  
-- Passionate about continuous self-improvement and innovation  
+- Passionate about continuous self-improvement and innovation
+
+## Technical Skills
+- Languages:Java,Python,C
+- For development: HTML,CSS,JS
+- Frameworks: React,Next
+- For Backend: Node,Express
+- Backend Framework: Appwrite
+- Database: MongoDB 
 
 ## 🤝 Let's Connect  
 I'm always looking to collaborate with like-minded individuals and organizations. If you're interested in working together or just want to say hi, feel free to reach out!  

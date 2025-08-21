@@ -1,6 +1,6 @@
 👋 Hi, I'm Abhay Mishra!
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Creator+at+Heart%2C+Coder+by+Passion+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Creator+at+Heart%2C+Coder+by+Passion+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 About Me

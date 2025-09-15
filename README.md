@@ -17,7 +17,8 @@ Here are the technologies I'm currently working with:
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,express,appwrite,mongodb,docker,kubernetes&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,express,appwrite,mongodb,docker,kubernetes,tailwind,github,firebase,aws&perline=8" alt="tech icons" />
+
 </a>
 </p>
 
